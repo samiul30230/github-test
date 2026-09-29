@@ -4,6 +4,8 @@ module-1
 module-2
     - Feature-2
     - Feature-3
+module-3
+    - Feature-1
     - Feature-4
     - Feature-5
     
